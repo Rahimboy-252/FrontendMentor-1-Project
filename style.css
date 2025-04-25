@@ -47,7 +47,7 @@ body {
     position: absolute;
     background-color: var(--qr-image-circle);
     border-radius: 50%;
-    top: -164.5px;
+    top: -264.5px;
     left: -134.5px;
 }
 
@@ -75,14 +75,14 @@ body {
     font-size: 22px;
     color: var(--slate-900);
     font-family: outfit;
-    font-weight: 900;
+    font-weight: 800;
     line-height: 120%;
 }
 
 .outfit-bold{
     color: var(--slate-500);
     font-family: outfit;
-    font-family: 15px;
+    font-size: 15px;
     letter-spacing: 0.4px;
     font-weight: 400;
     line-height: 140%;
