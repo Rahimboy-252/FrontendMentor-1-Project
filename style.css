@@ -23,7 +23,7 @@ body {
     width: 320px;
     height: 500px;
     border-radius: 20px;
-    box-shadow: 0 25px 25px #00000004;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.05);
 }
 
 .qr-container {
