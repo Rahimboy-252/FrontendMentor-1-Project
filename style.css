@@ -42,13 +42,13 @@ body {
 }
 
 .circle-1 {
-    width: 388px;
-    height: 388px;
+    width: 328px;
+    height: 328px;
     position: absolute;
     background-color: var(--qr-image-circle);
     border-radius: 50%;
-    top: -264.5px;
-    left: -134.5px;
+    top: -164.5px;
+    left: -131.5px;
 }
 
 .circle-2 {
@@ -75,7 +75,7 @@ body {
     font-size: 22px;
     color: var(--slate-900);
     font-family: outfit;
-    font-weight: 800;
+    font-weight: 700;
     line-height: 120%;
 }
 
